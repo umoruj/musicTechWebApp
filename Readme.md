@@ -1,6 +1,6 @@
 # nordantech2
 
-Application Description
+Application Description:
 Simple web application utilizing the Extended JS Framework to display data 
 requested from dummy REST API into a Grid view and also an additional 3D Graph.
 
