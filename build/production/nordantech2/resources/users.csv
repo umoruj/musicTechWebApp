@@ -1,0 +1,15 @@
+id;name;firstName;lastName;department;email;login;status
+1;Michael Kordt;Michael;Kordt;Consultant;mk@berater.de;mk@berater.de;active
+2;Anselm Vollmer;Anselm;Vollmer;Consultant;av@berater.de;av@berater.de;active
+3;Mira Falk;Mira;Falk;Consultant;mf@berater.de;mf@berater.de;active
+4;Ricardo Campbell;Ricardo;Campbell;Controlling;rc@comp.com;rc@comp.com;active
+5;Patricia Claußen;Patricia;Claußen;Controlling;pc@comp.com;pc@comp.com;active
+6;Susanne Marxen;Susanne;Marxen;Management;sm@comp.com;sm@comp.com;active
+7;Olaf Muntermacher;Olaf;Muntermacher;Management;om@comp.com;om@comp.com;active
+8;Anna Polanski;Anna;Polanski;Staff;ap@comp.com;ap@comp.com;active
+9;Mike Paals;Mike;Paals;Staff;mp@comp.com;mp@comp.com;active
+10;Lisa Padeken;Lisa;Padeken;Staff;lp@comp.com;lp@comp.com;active
+11;Christian Penning;Christian;Penning;Staff;cp@comp.com;cp@comp.com;active
+12;Rudolph Pons;Rudolph;Pons;Staff;rp@comp.com;rp@comp.com;active
+13;Piet Pintermann;Piet;Pintermann;Staff;pp@comp.com;pp@comp.com;active
+14;Xenia Prögmeyer;Xenia;Prögmeyer;Staff;xp@comp.com;xp@comp.com;active

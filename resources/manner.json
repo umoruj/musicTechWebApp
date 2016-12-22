@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Michael Kordt",
+    "firstname": "Michael",
+    "lastname": "Kordt",
+    "department": "Consultant",
+    "email": "mk@berater.de",
+    "login": "mk@berater.de",
+    "status": "active"
+  },
+  {
+    "id": "2",
+    "name": "Anselm Vollmer",
+    "firstname": "Anselm",
+    "lastname": "Vollmer",
+    "department": "Consultant",
+    "email": "av@berater.de",
+    "login": "av@berater.de",
+    "status": "active"
+  },
+  {
+    "id": "3",
+    "name": "Mira Falk",
+    "firstname": "Mira",
+    "lastname": "Falk",
+    "department": "Consultant",
+    "email": "mf@berater.de",
+    "login": "mf@berater.de",
+    "status": "active"
+  }
+]
